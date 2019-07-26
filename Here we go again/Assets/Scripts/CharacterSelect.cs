@@ -8,5 +8,6 @@ public class CharacterSelect : MonoBehaviour
     public void CharacterSelectFunction(int selectedNum)
     {
         PlayerNum = selectedNum;
+        Application.LoadLevel("CharacterSpawner");
     }
 }

@@ -14,4 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/LevelSelect.unity
     guid: cf3cdab08e57fba4ba18d7c0b6b2051b
+  - enabled: 1
+    path: Assets/Scenes/CharacterSpawner.unity
+    guid: 4884e8e205393d64a9bff633631aa249
   m_configObjects: {}
